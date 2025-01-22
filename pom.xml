@@ -30,7 +30,7 @@
 							<cloudhub2Deployment>
 								<environment>DEV</environment>
 								<applicationName>product-api-1-dev</applicationName>
-								<replicas>0.5</replicas>
+								<replicas>1</replicas>
 								<vCores>0.1</vCores>
 
 								<properties>
